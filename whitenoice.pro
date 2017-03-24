@@ -27,3 +27,7 @@ DEFINES += QT_DEPRECATED_WARNINGS
 HEADERS += \
     generator.h \
     audioout.h
+
+DISTFILES += \
+    windows/white_noice.exe \
+    README.md
